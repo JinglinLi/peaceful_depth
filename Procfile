@@ -1,0 +1,1 @@
+web: gunicorn jjx_movie_rec_app.application:app

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <link rel="stylesheet" href="/static/css/style.css">
+    </head>
+
+    <body>
+    <h1> Recommendations:</h1>
+    <h2> These are nmf movie recommendations: </h2>
+    <ul>
+    {% for m in movies %}
+        <li>{{ m }}</li>
+    {% endfor %}
+    <ul>
+    <p>
+    <a href="/">Go back to main page</a>
+    </p>
+    </body>
+</html>
