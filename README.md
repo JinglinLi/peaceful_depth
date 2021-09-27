@@ -1,5 +1,5 @@
-## heroku-nmf-recommender
-Movie recommender web app: https://peaceful-depth.herokuapp.com
+## Movie recommender web app
+link: https://peaceful-depth.herokuapp.com
 
 ## Data 
 http://movielens.org : dataset (ml-latest-small)
@@ -12,4 +12,5 @@ NMF algotithm : Non-negative matrix factorization
 pandas, numpy, scikit-learn, flask, heroku
 
 ## Results
-https://user-images.githubusercontent.com/82587457/134874502-e94d66f5-0711-401d-b7ab-e80d58e45870.mov
+https://user-images.githubusercontent.com/82587457/134877157-56857e68-fba3-4e64-9ed8-b2e95a43c6f0.mov
+
